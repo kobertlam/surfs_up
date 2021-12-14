@@ -13,4 +13,7 @@ The following tools will be used: Python, SQLite, and SQLAlchemy.
 - For December, the average temperature is 71.04°F, and the temperature range is between 56 ad 83°F.
 
 ## Summary:
-- There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
+- Based on the results above, the average temperature is 74.94°F and 71.04°F for June and December respectively, which is very suitable for the surf and ice cream shop business.
+- In addition, we can also perform the following queries to gather more weather data for June and December:
+    1) Write a query that filters the Measurement table to retrieve the precipitation (`Measurement.prcp`) for the month of June and December, and provide the summary statistics for June and Decemeber.
+    2) Write a query that filter Station table to retrieve a weather station which is closest to the location W. Avy want to open the shop, and then write another query from the Measurement table to retrieve precipitation for the month of Jun and Dec based on the records collected from that particular weather station.
