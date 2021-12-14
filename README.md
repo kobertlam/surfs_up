@@ -16,4 +16,4 @@ The following tools are being used: Python, SQLite, and SQLAlchemy.
 - Based on the results above, the average temperature is 74.94°F and 71.04°F for June and December respectively, which is very suitable for the surf and ice cream shop business.
 - In addition, we can also perform the following queries to gather more weather data for June and December:
     1) Write a query that filter the Measurement table to retrieve the precipitation (`Measurement.prcp`) for the month of June and December, and provide the summary statistics for June and Decemeber.
-    2) Write a query that filter the Station table to retrieve a weather station which is closest to the location W. Avy want to open the surf shop, and then write another query from the Measurement table to retrieve precipitation for the month of Jun and Dec for that particular weather station.
+    2) Write a query that filter the Station table to retrieve a weather station which is closest to the location where W. Avy want to open the surf shop, and then write another query from the Measurement table to retrieve precipitation for the month of Jun and Dec for that particular weather station.
