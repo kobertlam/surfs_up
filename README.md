@@ -6,8 +6,8 @@ W. Avy wants more information about temperature trends before opening the surf s
 The following tools will be used: Python, SQLite, and SQLAlchemy.
 
 ## Results:
-![Total Employees](Resources/Total_Employees.png)
-![Total Employees](Resources/Total_Employees.png)
+![Jun Results](Resources/June_Results.png)
+![Dec Results](Resources/Dec_Results.png)
 - There are 1700 and 1517 temperature records collected for the month of June and Decemeber in Oahu.
 
 
